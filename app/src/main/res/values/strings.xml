@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">掌拒</string>
+    <string name="service_description">根据触点面积抑制较大的掌缘触摸，并尽量保留较小的笔尖触摸。</string>
+</resources>

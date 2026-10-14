@@ -1,0 +1,16 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.example.palmguard'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.example.palmguard'
+        minSdk 33
+        targetSdk 35
+        versionCode 8
+        versionName '0.1.7'
+    }
+}
